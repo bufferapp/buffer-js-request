@@ -1,0 +1,24 @@
+{
+  "name": "@bufferapp/buffer-request",
+  "version": "0.1.0",
+  "description": "Interface to send requests – thin wrapper around fetch()",
+  "main": "Request.js",
+  "author": "Philippe Masset <pioul06+github@gmail.com>",
+  "homepage": "https://github.com/bufferapp/buffer-request#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bufferapp/buffer-request.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bufferapp/buffer-request/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "7.1.0",
+    "eslint": "3.9.1",
+    "eslint-config-airbnb": "13.0.0",
+    "eslint-plugin-import": "2.2.0",
+    "eslint-plugin-jsx-a11y": "2.2.3",
+    "eslint-plugin-react": "6.6.0"
+  }
+}
