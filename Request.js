@@ -14,6 +14,7 @@
  * and pass it as a string through settings.body, and JSON.parse() that payload on
  * the server. Additions welcome!
  */
+import 'whatwg-fetch';
 
 class Request {
   static send(url, data = {}, settings = {}) {
