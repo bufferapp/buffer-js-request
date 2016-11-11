@@ -1,6 +1,6 @@
 {
   "name": "@bufferapp/buffer-js-request",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "JS interface to send requests – thin wrapper around fetch()",
   "scripts": {
     "compile": "rimraf lib/* && babel src -d lib",
