@@ -1,16 +1,16 @@
 {
-  "name": "@bufferapp/buffer-request",
+  "name": "@bufferapp/buffer-js-request",
   "version": "0.1.0",
-  "description": "Interface to send requests – thin wrapper around fetch()",
+  "description": "JS interface to send requests – thin wrapper around fetch()",
   "main": "Request.js",
   "author": "Philippe Masset <pioul06+github@gmail.com>",
-  "homepage": "https://github.com/bufferapp/buffer-request#readme",
+  "homepage": "https://github.com/bufferapp/buffer-js-request#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bufferapp/buffer-request.git"
+    "url": "git+https://github.com/bufferapp/buffer-js-request.git"
   },
   "bugs": {
-    "url": "https://github.com/bufferapp/buffer-request/issues"
+    "url": "https://github.com/bufferapp/buffer-js-request/issues"
   },
   "license": "MIT",
   "devDependencies": {
